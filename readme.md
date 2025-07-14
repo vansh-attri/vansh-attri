@@ -52,8 +52,8 @@ I specialize in building scalable and efficient web applications with a focus on
 
 ### 📊 GitHub Stats
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; background: #0d1117; padding: 20px; border-radius: 10px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=risabkshetri&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risabkshetri&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0d1117&text_color=ffffff&title_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vansh-attri&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-attri&layout=compact&theme=radical&hide_border=true&langs_count=10&bg_color=0d1117&text_color=ffffff&title_color=58a6ff"/>
 </div>
 
 ---
