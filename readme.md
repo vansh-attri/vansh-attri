@@ -58,26 +58,6 @@ I specialize in building scalable and efficient web applications with a focus on
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=vansh-attri&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 🔥 My Contribution Streak
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vansh-attri&theme=dark)](https://git.io/streak-stats)
-
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vansh-attri&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
